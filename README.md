@@ -1,1 +1,1 @@
-# _nirvana_ctf_
+## Capture the flag
